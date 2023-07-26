@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\bin\Debug\ConsAppPractProject3.exe.config
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\bin\Debug\ConsAppPractProject3.exe
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\bin\Debug\ConsAppPractProject3.pdb
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\obj\Debug\ConsAppPractProject3.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\obj\Debug\ConsAppPractProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\obj\Debug\ConsAppPractProject3.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\obj\Debug\ConsAppPractProject3.exe
+C:\Users\moham\source\repos\PracticeProject3\ConsAppPractProject3\ConsAppPractProject3\obj\Debug\ConsAppPractProject3.pdb
